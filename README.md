@@ -4,6 +4,8 @@
 
 ## Overview
 
+**Note that this is a FORK of a project by NaikSoftware! With this version you can send payloads larger than 8k.**
+
 This library provide support for STOMP protocol https://stomp.github.io/
 At now library works only as client for backend with support STOMP, such as
 NodeJS (stompjs or other) or Spring Boot (SockJS).
